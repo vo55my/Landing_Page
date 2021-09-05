@@ -1,2 +1,2 @@
 # Landing_Page
-Landing Page menggunakan Bootstrap V.4
+Landing Page menggunakan Bootstrap v.4
